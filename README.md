@@ -1,8 +1,6 @@
 ---
 author: gusni.kantu@gmail.com
 ccbysa: true
-date: 2023-04-28T10:40:00Z
-modi: 2023-04-28T14:40:00Z
 ---
 # qfdaisy.github.io
 Que faire avec DAISY?
