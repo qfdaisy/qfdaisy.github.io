@@ -59,16 +59,17 @@
        <div><a href="mailto:{{ page.author }}">{{ page.author }}</a></div>
        {% endif %}
 
-       {% endif %}
        {% if page.date %}
       <div>
     	Created: <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date }}</time>
       </div>
        {% endif %}
+
        {% if page.modi %}
       <div>
     	Modified: <time datetime="{{ page.modi | date_to_xmlschema }}">{{ page.modi }}</time>
       </div>
+       {% endif %}
 
        {% if page.ccbysa %}
        <div><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
