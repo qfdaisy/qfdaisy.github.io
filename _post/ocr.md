@@ -1,4 +1,5 @@
 ---
+layout: default
 category: ai
 docid: ocr
 title: 日本語 OCR のお試し版比較

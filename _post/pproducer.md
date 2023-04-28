@@ -1,4 +1,5 @@
 ---
+layout: default
 category: ai
 docid: pproducer
 title: PLEXTALK Producer と ChattyInfty3 の比較
