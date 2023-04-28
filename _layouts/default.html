@@ -46,9 +46,9 @@
 <meta name="theme-color" content="#ffffff">
 
   </head>
-  <body{% if page.oto %} onload="showtext()"{% endif %}>
+  <body>
    <div id="passage-text" class="passage">
-    <section class="main-content" id="bun"{% if page.oto %} style="display:none"{% endif %}>
+    <section class="main-content" id="bun">
 
       {{ content }}
 
@@ -56,12 +56,14 @@
       <footer class="site-footer">
        
        {% if page.author %}
-       <div>[{{ page.author }}](mailto:{{ page.author }})</div>
+       <div><a href="mailto:{{ page.author }}">{{ page.author }}</a></div>
        {% endif %}
 
+       {% if page.date %}
       <div>
     	Modified on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date }}</time>
       </div>
+       {% endif %}
 
        {% if page.ccbysa %}
        <div><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
