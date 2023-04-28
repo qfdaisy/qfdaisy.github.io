@@ -1,3 +1,7 @@
+---
+author: gusni.kantu@gmail.com
+ccbysa: true
+---
 # qfdaisy.github.io
 Que faire avec DAISY?
 
