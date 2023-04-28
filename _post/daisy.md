@@ -1,5 +1,5 @@
 ---
-layout: caymanyomi
+layout: default
 category: misc
 docid: daisy
 title: DAISYとは
