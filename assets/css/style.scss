@@ -39,11 +39,11 @@ $spacing-unit: 1.2em;
 @import "{{ site.theme }}";
 
 
-
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400&family=Varela+Round&display=swap'); 
 * {
-  font-family: Verdana, sans-serif;
+font-family: 'M PLUS Rounded 1c', Verdana, sans-serif;
+letter-spacing: 1px;
 }
-
 
 
 body {
