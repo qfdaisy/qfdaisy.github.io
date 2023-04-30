@@ -6,6 +6,7 @@ title: 日本語 OCR のお試し版比較
 author: gusni.kantu@gmail.com
 ccbysa: true
 date: 2017-08-09T09:00:00Z
+modi: 2023-04-29T05:22:00Z
 iro: 01764A
 gra: DCF3FF
 ---
@@ -25,7 +26,7 @@ gra: DCF3FF
 
 - [「読取革命Ver.15」](http://www.panasonic.com/jp/company/pstc/products/yomikaku.html)（1万円弱）は2012年9月に発売された OCR で、日本語と英語に対応。
 - [「e.Typist v.15.0」](https://mediadrive.jp/products/et/index.html)（12,800円）は2013年9月に発売された OCR で、58ヵ国語に対応。お試し版は日本語と英語だけの機能しかありません。
-- [「ABBYY FineReader 14」](http://finereader.add-soft.jp/)（2万円）は2017年2月に発売された OCR で、192の言語に対応。図書館のデジタル工房に新しく入ったスキャナSV600の付録になっている[「ABBYY FineReader for ScanSnap」](http://www.pfu.fujitsu.com/imaging/downloads/manual/advanced/v62/jp/common/ocr_function_fr4ss.html)は富士通のスキャナ専用に特化していますが、読み取りの性能はこれと同等か、これ以前のバージョンと同等のはずです。
+- [「ABBYY FineReader 14」](http://finereader.add-soft.jp/)（2万円）は2017年2月に発売された OCR で、192の言語に対応。スキャナSV600の付録になっている[「ABBYY FineReader for ScanSnap」](http://www.pfu.fujitsu.com/imaging/downloads/manual/advanced/v62/jp/common/ocr_function_fr4ss.html)は富士通のスキャナ専用に特化していますが、読み取りの性能はこれと同等か、これ以前のバージョンと同等のはずです。
 
 ## サンプル文書別の報告
 
