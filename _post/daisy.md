@@ -5,7 +5,8 @@ docid: daisy
 title: DAISYとは
 author: gusni.kantu@gmail.com
 ccbysa: true
-date: 2020-02-19T06:04:00Z
+date: 2019-11-25T23:10:00Z
+modi: 2020-02-19T06:04:00Z
 iro: 21358b
 gra: a0aad6
 math: true
