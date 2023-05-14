@@ -161,8 +161,7 @@ ChattyInfty3 の EPUB インポート機能は完全ではなく、失敗した�
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/unusable.mp4" type="video/mp4">
   <source src="media/aitalk/unusable.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 この場合は、コンピュータにとって読み上げ可能な文字に変換してから Chatty に取り込む必要がある。その方法の1つとして、以下の方法が簡単である。読み上げられない文字を手作業で修正するのはヒューマン・エラーを増やす可能性があるので、できるだけ避ける。
 
@@ -210,8 +209,7 @@ ChattyInfty3 AITalk版では「せいじ」「のぞみ」「かほ」の3人の
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/variation.mp4" type="video/mp4">
   <source src="media/aitalk/variation.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 日本語 AITalk の音声は、 ChattyInfty3 や音声辞書の更新によって読み上げ方が変わることがある。
 そのため、1つのプロジェクトに一緒に関わる Chatty ファイル作成者と校正者は、必ず同じバージョンを使わなければいけない。
@@ -226,8 +224,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/space_shortpause.mp4" type="video/mp4">
   <source src="media/aitalk/space_shortpause.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 スペースは必ずしもポーズにならない。 AITalk が構文解析をした結果、そのスペースの位置にポーズを入れるのが妥当であると判断した場合はポーズになる。
 
@@ -279,8 +276,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/touten.mp4" type="video/mp4">
   <source src="media/aitalk/touten.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 
 #### 3.4.3. 日本語のアクセント規則
@@ -410,8 +406,7 @@ ChattyInfty3 AITalk版の単語登録機能を使って、デイジー図書の�
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/gafam.mp4" type="video/mp4">
   <source src="media/aitalk/gafam.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 単語登録したい文字列を複数の文節に分けたい場合もある。単語登録の範囲内で分節を分けるには、アクセントの丸い印を右クリックして切断する。
 これを切断しなかったり、不適切なところで切断したりすると、まったく思い通りのアクセントは作れない。
@@ -420,8 +415,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/tokyotokkyokyokakyoku.mp4" type="video/mp4">
   <source src="media/aitalk/tokyotokkyokyokakyoku.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ChattyInfty3 に付属している AITalk は、単体で売られている AITalk と違って、登録できる単語の品詞が限られている。名詞と記号だけを登録でき、動詞や形容詞などは登録できない。
 動詞や形容詞などを名詞として登録してしまうと、前後の文脈の中で名詞としてのアクセント変化が起き、読み上げが不自然になるし、活用形にも対応できない。
@@ -433,8 +427,7 @@ ChattyInfty3 に付属している AITalk は、単体で売られている AITa
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/kasi.mp4" type="video/mp4">
   <source src="media/aitalk/kasi.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 単語登録で、名詞の最後の拍を高くすると、普通は平板型として登録される。つまり文中の読み上げではその名詞の次の助詞が高い拍で始まる。
 
@@ -442,8 +435,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/sammyaku.mp4" type="video/mp4">
   <source src="media/aitalk/sammyaku.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ただし、1つの拍だけからなる名詞を高い拍として単語登録すると、その名詞の拍はアクセント核と見なされ、文中の読み上げでは次の助詞が低い拍になる。
 逆に、その名詞を低い拍として単語登録すると、その名詞にはアクセント核が無いものと見なされ、次の助詞は高い拍で始まる。
@@ -454,8 +446,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/yama.mp4" type="video/mp4">
   <source src="media/aitalk/yama.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 単語登録では、名詞の種類を細かく指定できる。これをできるだけ正確に指定すれば、 AITalk は前後の文脈の中で比較的適切なアクセントを判断してくれる。
 
@@ -465,8 +456,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/meisi.mp4" type="video/mp4">
   <source src="media/aitalk/meisi.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 
 #### 3.4.5. 読み設定
@@ -491,8 +481,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/yomisettei_kihon.mp4" type="video/mp4">
   <source src="media/aitalk/yomisettei_kihon.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ##### 読み設定の便利な使い方
 {:.no_toc}
@@ -507,8 +496,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/yomisettei_benri.mp4" type="video/mp4">
   <source src="media/aitalk/yomisettei_benri.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ここでは読み設定の説明のため、「遺書」を「カキオキ」と読ませることに読み設定を使ったが、「遺書」は名詞として使われているので、その文書全体で常に「カキオキ」と読むのであれば、単語登録で読みを修正する方が簡単である。
 {: .note}
@@ -522,8 +510,7 @@ AITalk版では読み上げられない文字列に、音声ファイルを当�
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/file_phrase.mp4" type="video/mp4">
   <source src="media/aitalk/file_phrase.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 他に、 [NEUTRINO](https://n3utrino.work/238/) などで歌わせて作成した音声ファイルや、自分の声の録音ファイルなども当てはめることができる。音訳以外の用途に使う場合は、音楽や効果音も入れることができる。
 
@@ -563,8 +550,7 @@ ChattyInfty3 のデフォルトの入力モードはテキストモードにな�
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/math.mp4" type="video/mp4">
   <source src="media/aitalk/math.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ##### LaTeX 原稿の取り込み
 {:.no_toc}
@@ -605,8 +591,7 @@ Chatty編集画面にコピー＆ペーストした状態：
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/merge_highlight.mp4" type="video/mp4">
   <source src="media/aitalk/merge_highlight.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ある部分を選択してフレーズ結合 `Ctrl *` すると、選択した部分の中ではハイライトが切れず、選択した部分の直前直後がハイライト分割になる。
 読点や括弧が含まれるセクションタイトルを1フレーズにしたいときに使える。
@@ -615,8 +600,7 @@ Your browser does not support the video tag.
 : <video width="100%" height="auto" controls>
   <source src="media/aitalk/merge_phrase.mp4" type="video/mp4">
   <source src="media/aitalk/merge_phrase.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+Your browser does not support the video tag.</video>
 
 ### 3.6. コメントの挿入
 
