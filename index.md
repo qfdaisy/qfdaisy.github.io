@@ -6,7 +6,7 @@ title: Que faire avec DAISY?
 author: gusni.kantu@gmail.com
 ccbysa: true
 date: 2023-04-27T22:10:00Z
-modi: 2023-05-01T00:50:00Z
+modi: 2023-05-15T03:27:00Z
 ---
 # Que faire avec DAISY?
 
