@@ -13,5 +13,5 @@ modi: 2023-05-01T00:50:00Z
 - [DAISYとは](daisy.html)
 - [日本語 OCR のお試し版比較](ocr.html)
 - [PLEXTALK Producer と ChattyInfty3 の比較](pproducer.html)
-- [マルチメディアデイジー制作のための理論と実践](https://docs.google.com/presentation/d/17-BF2mJ7k7RQVpR8Y9X-wNqfBrpimvtT0cgDwRQwjZI/edit?usp=sharing)
+- [マルチメディアデイジー製作のための理論と実践](https://docs.google.com/presentation/d/17-BF2mJ7k7RQVpR8Y9X-wNqfBrpimvtT0cgDwRQwjZI/edit?usp=sharing)
 - [ChattyInfty3 AITalk版の操作方法](aitalk.html)
