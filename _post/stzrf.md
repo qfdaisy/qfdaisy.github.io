@@ -16,9 +16,10 @@ gra: fce5ff
 
 ## 退会のごあいさつ
 
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">退会のごあいさつ</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+2024年3月、Mより[^note]。
+[^note]: <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">退会のごあいさつ</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
 
-2023年3月24日、会長であったP氏からの招集で役員会が開かれました。そこでは「デイジー版の奥付セクションに定価の読みを挿入するように指導するか」という議題について、問題点（付録1）の解決を試みること無く、挙手や拍手による意思確認さえせずに、M以外からの反論が出ないという消極的沈黙を以って、何ら根拠を示すことなく「指導する」ことが即決されました。「指導する」というのは具体的に言うと、音訳者に教える、校正で指摘するということです。
+2023年3月24日、会長であったP氏からの招集で役員会が開かれました。そこでは「デイジー版の奥付セクションに定価の読みを挿入するように指導するか」という議題について、問題点（[付録1](#付録1-表紙を読む仕様で奥付に定価の読みを挿入することの問題点)）の解決を試みること無く、挙手や拍手による意思確認さえせずに、M以外からの反論が出ないという消極的沈黙を以って、何ら根拠を示すことなく「指導する」ことが即決されました。「指導する」というのは具体的に言うと、音訳者に教える、校正で指摘するということです。
 
 この議決の方法や結論については、MはグループQの会員として従うしかありません。ただし、他人に指導することと、自分が指導に従わないことは、両立します。
 
@@ -32,7 +33,7 @@ gra: fce5ff
 
 ところがP氏はこの内容を、グループQの役員会に対する攻撃であると誤解したようでした。Mは役員会の決定事項に従って指導することを受容した上で、その指導を受ける各音訳者の決定権と製作責任について書いただけなのですが、Mがどう説明しても誤解は解けませんでした。P氏は、それらの記述をすべて削除するよう、Mに要請しました。しかし、音訳者の決定権を守り、編集者が余計な責任を負わないようにするためには、この記述が必須です。Mは技術者としての善意から、その要請に従いませんでした。
 
-P氏は更に、奥付に定価を挿入する理由らしき事項を挙げ（付録2）、Mの個人的抵抗をやめさせようとしましたが、どれも的外れな話なので、辻褄の合う仕様を目指したいMの意思を動かせるはずがありません。
+P氏は更に、奥付に定価を挿入する理由らしき事項を挙げ（[付録2](#付録2-表紙を読む仕様で奥付に定価の読みを挿入することを止めない理由らしきものとそれに対する反論)）、Mの個人的抵抗をやめさせようとしましたが、どれも的外れな話なので、辻褄の合う仕様を目指したいMの意思を動かせるはずがありません。
 
 以上のようなMの態度は、役員会の決定に背かずに自分の信念を貫くための最善の方法であったはずですが、Mの意思に反してP氏は激怒したように見えました。P氏はMから見れば支離滅裂なメッセージを、夜中にメールで大量にM個人宛に送ってきました。「何をお怒りなのかわからない」とMが返信をすると、P氏から「怒っているのではなく、がっかりした」とのメッセージが来ました。どうやら、Mが役員会を攻撃しているという思い込みは解けないようでしたので、Mが上記の説明をスライドの中に書いたことによってP氏を裏切ったとお考えなのかもしれません。
 
