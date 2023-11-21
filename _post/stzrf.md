@@ -1,22 +1,22 @@
 ---
 layout: default
+category: misc
 docid: stzrf
 title: 退会のごあいさつ
 author: M
-date: 2024-03-30T09:00:00Z
+ccbysa: true
+date: 2023-11-21T09:00:00Z
 iro: 0f40d8
 gra: fce5ff
 ---
-
-# 退会のごあいさつ
-
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">退会のごあいさつ</span> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
 
 ## 目次
 {:.no_toc}
 
 * TOC
 {:toc}
+
+## 退会のごあいさつ
 
 2023年3月24日、会長であったP氏からの招集で役員会が開かれました。そこでは「デイジー版の奥付セクションに定価の読みを挿入するように指導するか」という議題について、問題点（付録1）の解決を試みること無く、挙手や拍手による意思確認さえせずに、M以外からの反論が出ないという消極的沈黙を以って、何ら根拠を示すことなく「指導する」ことが即決されました。「指導する」というのは具体的に言うと、音訳者に教える、校正で指摘するということです。
 
