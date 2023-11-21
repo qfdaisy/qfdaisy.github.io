@@ -4,8 +4,8 @@ category: misc
 docid: stzrf
 title: 退会のごあいさつ
 date: 2023-11-21T09:00:00Z
-iro: 0f40d8
-gra: fce5ff
+iro: 327295
+gra: a3c70e
 ---
 
 ## 目次
