@@ -3,7 +3,7 @@ layout: noindex
 category: misc
 docid: stzrf
 title: 退会のごあいさつ
-date: 2024-03-30T09:00:00Z
+date: 2023-03-30T09:00:00Z
 iro: 327295
 gra: a3c70e
 ---
