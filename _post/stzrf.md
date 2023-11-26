@@ -12,7 +12,7 @@ gra: a3c70e
 
 2023年11月、Mより。
 
-<span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">退会に至るいきさつについて</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
+ <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">退会に至るいきさつについて</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
 {: .note}
 
 ## 目次
@@ -25,9 +25,9 @@ gra: a3c70e
 
 2023年3月24日、会長であったP氏からの招集で役員会が開かれました。そこでは「デイジー版の奥付セクションに定価の読みを挿入するように指導するか」という議題が取り上げられました。この時は、これほど些細な問題があれほど大きな事件に発展するとは、誰が想像できたでしょう。
 
-Mはその日以前にもメール等でこの指導が内包する問題をいくつか挙げていましたが（[付録1](#付録1-表紙を読む仕様で奥付に定価の読みを挿入することの問題点)）、役員会ではそれらの問題がすべて取るに足らないこととされたのか、何一つ問題回避の方策を議論すること無く、挙手や拍手による意思確認さえせずに、M以外からの反論が出ないという消極的沈黙を以って「指導する」ことが即決されました。「指導する」というのは具体的に言うと、音訳者に教える、校正で指摘するということです。
+Mはその日以前にもメール等でこの指導が内包する問題をいくつか挙げていましたが（[付録1](#付録1-表紙を読む仕様で奥付に定価の読みを挿入することの問題点)）、役員会ではそれらの問題がすべて取るに足らないこととされたのか、問題回避の方策は議論されず、挙手や拍手による意思確認もされず、M以外からの反論が出ないという消極的沈黙を以って「指導する」ことが即決されました。「指導する」というのは具体的に言うと、音訳者に教える、校正で指摘するということです。
 
-この決議の方法や結論については、MはグループQの会員として従うしかありません。ただし、グループQのどの会員xとyについても、「xがyに対して『yが奥付に定価を挿入する』ことを指導する」という事象Aと、「yが奥付に定価を挿入する」という事象Bは、互いに独立した事象であり、役員会決議は、事象Aを真とすることだけです。yが事象Bを偽とする行動を取っても役員会決議に違反しません。
+この決議の方法や結論については、MはグループQの会員として従うしかありません。ただし、グループQのどの会員xとyについても、「xがyに対して『yが奥付に定価を挿入する』ことを指導する」という事象Aと、「yが奥付に定価を挿入する」という事象Bは、互いに独立した事象であり、役員会決議は、事象Aを真とすることだけです。yが事象Bを偽とする行動を取ること、つまり、各会員が奥付に定価を挿入しないこと自体は、役員会決議に違反しません。
 
 また、音訳に携わる人々に普遍的な了解として、音訳者は自分の読みに対する決定権を持っています。つまり、音訳者が校正者の指摘に従わないことは、この普遍的な了解に基づくという意味で合法的に可能です。
 
@@ -74,7 +74,7 @@ Mがこれまでに学習資料集に載せたデイジー技術の解説文の�
 この要請を受け、学習資料集内のMの文章の一部については、グループQとの繋がりを示唆する表現を削除した上で別サイトへ移動し、残りの文章については公開を停止して、会員のみが閲覧可能なクラウドドライブへ移動した。
 {: .note}
 
-科学的批判精神を尊重する文化の中で育ってきた者にとっては、Mの解説文などごく平凡な文章に過ぎません。それと違って、P氏をはじめとするグループQ役員の何人かは、真実の探求よりも波風を立てないことのほうが尊重される文化の中で、純真に育ってこられたのかもしれません。この推測が正しければ、Mの解説文を攻撃とみなすような曲解が成立することも理解できます。
+P氏をはじめとするグループQ役員の何人かは、真実の探求よりも波風を立てないことのほうが尊重される文化の中で、純真に育ってこられたのかもしれません。この推測が正しければ、Mの解説文を攻撃とみなすような曲解が成立することも理解できます。
 
 根拠を挙げて問題点を指摘することが禁忌とされる文化が世の中に存在するらしいことをMは知っていましたが、グループQや音訳界がそういう文化圏にある可能性を想定していませんでした。この軽率さはMにとって取り返しのつかない失敗となりました。
 
@@ -87,7 +87,7 @@ Mがこれまでに学習資料集に載せたデイジー技術の解説文の�
 役員会が表紙を読む仕様に変更した後も奥付への定価挿入という指導を続けていることは、こういった文化的背景があるという仮説を裏付けている。
 {: .note}
 
-このような方法で内部の平和を維持している文化に対して、Mは変革を迫っているのではありません。ただ科学的批判精神はMの行動原理の主要部分を占めているので、それを封殺する文化の中で過ごすことは、Mにとって息のできないような苦痛と感じられます。Mが退会すればその苦痛から開放され、単なる異文化交流として、MはグループQや音訳界と心静かに助け合っていくことができるでしょう。
+このような方法で内部の平和を維持している文化に対して、Mは変革を迫っているのではありません。ただMの行動原理の根幹として科学的批判精神があり、それを封殺する文化の中で過ごすことは、Mにとって息のできないような苦痛と感じられます。Mが退会すればその苦痛から開放され、単なる異文化交流として、MはグループQや音訳界と心静かに助け合っていくことができるでしょう。
 
 以上の2つの理由から、グループQと個人Mの双方にとって、Mの退会が最善の選択であると判断しました。
 
