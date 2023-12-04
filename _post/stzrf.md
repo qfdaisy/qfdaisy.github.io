@@ -8,11 +8,11 @@ iro: 327295
 gra: a3c70e
 ---
 
-# 退会に至るいきさつについて
+# Mの退会に至るいきさつについて
 
 2023年11月、Mより。
 
- <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">退会に至るいきさつについて</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
+ <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">Mの退会に至るいきさつについて</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
 {: .note}
 
 ## 目次
@@ -21,7 +21,7 @@ gra: a3c70e
 * TOC
 {:toc}
 
-## いきさつ
+## 1. 前会長退任まで
 
 2023年3月24日、当時の会長だったP氏からの招集で役員会が開かれました。そこでは「デイジー版の奥付セクションに定価情報を挿入するように指導するか」という議題が取り上げられました。「指導する」というのは具体的に言うと、音訳者に教える、校正で指摘するということです。
 
@@ -78,9 +78,11 @@ P氏は更にメールや口頭で、奥付セクションに定価情報を挿�
 
 しかしMは今でも事象Bに対する態度を改めるつもりはありません。また、今後別の問題についても、辻褄の合わないことが決議されれば、Mはその決定事項に個人的に関与しないための合法的な逃げ道を模索するでしょう。この態度は単なる逃避行動に過ぎないのですが、グループQの中には、あたかもMが役員会を攻撃しているかのように誤解して怒り出す人もいるでしょうし、そのせいで会の存続の危機を招き、音訳者を減らすことも予想されます。
 
-つまり、MがグループQの会員でいる限り、グループQや音訳界全体に害悪をもたらす可能性が高いです。これが退会の理由の1つです。
+つまり、MがグループQの会員でいる限り、グループQや音訳界全体に害悪をもたらす可能性が高いです。Mが退会すれば、将来の害悪の可能性を一つ取り除くことができます。
 
-この理由に伴い、Mとしても、グループQに所属したくない事情があります。
+## 2. 前会長退任後
+
+この事件以降も、Mの退会への後押しとなるいきさつがありました。
 
 上記の事件以後、これよりもっと以前にMが書いて学習資料集に載せていた数々の解説文が、グループQの複数の役員から、「攻撃的である」として問題視されるようになりました。P氏からの苦言が他の役員たちに伝わったことで、過去の文章も注目を集めることになったのでしょう。
 
@@ -102,9 +104,9 @@ Mがこれまでに学習資料集に載せたデイジー技術の解説文の�
 
 P氏をはじめとするグループQ役員の何人かは、真実よりも既存の秩序のほうが尊重される文化の中で、純真に育ってこられたのかもしれません。そういう仮説の下で上記の役員たちのMへの対応を分析してみれば、根拠を挙げて問題点を説明しているだけの論理的な文章さえも、秩序を乱す悪行と見なされ、攻撃的であると曲解されるのも理解できます。
 
-同様に、この文章の冒頭に書いたような役員会の採決方法を攻撃的と見なす役員がいないのも、慣習への問題提起自体が悪行と見なされたためだと考えれば、やはり理解できます。
+同様に、前節冒頭に書いたような役員会の採決方法を攻撃的と見なす役員がいないのも、慣習への問題提起自体が悪行と見なされたためだと考えれば、やはり理解できます。
 
-そういう文化的背景があるという仮説の下では、異文化から来たMの言動を役員たちが持て余すのも理解できます。
+そういう文化的背景があるという仮説の下では、異文化から来たMの言動を役員たちが持て余しているだろうと推測できます。
 
 そういう文化が世の中に存在するらしいことをMは知っていましたが、グループQや音訳界がその文化圏にある可能性を想定していませんでした。
 
@@ -118,7 +120,7 @@ Mの説明は基本的に、「根拠を挙げて問題点を指摘し、その�
 
 グループQがそういう文化にあるとしても、Mは変革を迫るつもりはありません。しかし、Mの行動原理の根幹として科学的批判精神があり、それを封殺する環境の中で過ごすこと自体が、Mにとって精神的な死のように感じらるのです。
 
-以上の2つの理由から、グループQと個人Mの双方にとって、Mの退会が最善の選択であると判断しました。
+Mが退会すれば、グループQと個人Mは単なる異文化交流として、心静かに助け合っていくことができるでしょう。
 
 
 ## 付録1. 表紙を読む仕様で奥付セクションに定価情報を挿入することの問題点
