@@ -2,16 +2,16 @@
 layout: noindex
 category: misc
 docid: stzrf
-title: 退会に至るいきさつについて
-date: 2023-12-04T00:00:00Z
+title: Mの弁明: Ἀπολογία
+date: 2023-12-05T00:00:00Z
 iro: 327295
 gra: a3c70e
 ---
 
-# Mの退会に至るいきさつについて
+# Mの弁明: Ἀπολογία
 {:.no_toc}
 
- <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">Mの退会に至るいきさつについて</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
+ <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">Mの弁明: Ἀπολογία</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
 {: .note}
 
 ## 目次
@@ -87,7 +87,7 @@ P氏は更にメールや口頭で、奥付セクションに定価情報を挿�
 
 ## 2. 前会長退任後
 
-その後にも、Mの退会への後押しとなるいきさつがありました。
+その後にも、Mの退会への後押しとなる経緯がありました。
 
 上記の事件以後、これよりもっと以前にMが書いて学習資料集に載せていた数々の解説文が、グループQの複数の役員から、「攻撃的である」として問題視されるようになりました。P氏からの苦言が他の役員たちに伝わったことで、過去の文章も注目を集めることになったのでしょう。
 
@@ -104,14 +104,14 @@ Mがこれまでに学習資料集に載せたデイジー技術の解説文の�
 しかし、Mがデイジー製作に必要な知識として書いた技術上の批判、あるいは問題点ではない単なる事実説明でさえも、グループQの複数の役員によって攻撃的であるとみなされ、そのような文章をグループQのウェブサイトに載せないように要請されました。
 
 （注）<br />
-この要請を受け、学習資料集内のMの文章の一部については、グループQとの繋がりを示唆する表現を削除した上で別サイトへ移動し、残りの文章については公開を停止して、会員のみが閲覧可能なクラウドドライブへ移動した。（注 終わり）
+この要請を受け、学習資料集を閉鎖し、Mの文章の一部については、グループQとの繋がりを示唆する表現を削除した上で別サイトへ移動、残りの文章については会員のみが閲覧可能なクラウドドライブへ移動した。（注 終わり）
 {: .note}
 
-P氏をはじめとするグループQ役員の何人かは、真実の探求よりも秩序の維持のほうが優先される文化の中で、純真に育ってこられたのかもしれません。そういう仮説の下で上記の役員たちのMへの対応を分析してみれば、根拠を挙げて問題点を説明しているだけの論理的な文章さえも、秩序を乱す悪行と見なされ、攻撃的であると曲解されるのも理解できます。
+P氏をはじめとするグループQ役員の何人かは、真実の探求よりも秩序の維持のほうが優先される文化の中で、純真に育ってこられたのかもしれません。そういう仮説の下では、根拠を挙げて問題点を説明しているだけの論理的な文章さえも役員たちにとっては秩序を乱す悪行であり、攻撃的であると曲解されるのも不思議ではありません。
 
-またその一方で、前節冒頭で述べたような、挙手や拍手さえ求められない役員会の採決方法について、攻撃的であると問題視する役員がいないのも、慣習への問題提起自体が悪行と見なされ、それに対する正当防衛としてあの採決方法を取ったと考えれば、やはり理解できます。
+またその一方で、前節冒頭のような挙手や拍手さえ求められない役員会の採決方法が攻撃的と言われないのも、この仮説の下では自然な成り行きだったと考えられます。その時の議題であった慣習への問題提起自体が悪行と見なされ、それに対する正当防衛としてあの採決方法を取ったのでしょう。
 
-グループQの役員たちにそういう文化的背景があるという仮説の下では、異文化から来たMの言動を役員たちが持て余しているだろうと想像できます。
+グループQの役員たちにそういう文化的背景があるという仮説の下では、Mにとっては異様に思われたP氏や他の役員たちの言動を理解できます。逆に、異文化から来たMの言動を役員たちが持て余しているだろうことも想像できます。
 
 以上の仮説が正しいかどうかはわかりませんが、いずれにせよ、グループQ内部では既存の秩序が内包する問題点を指摘すること自体が問題視され、事実上禁じられました。これによってMの発言は大幅に制限されます。
 
