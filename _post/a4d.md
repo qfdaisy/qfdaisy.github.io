@@ -5,7 +5,7 @@ docid: a4d
 title: DAISY版製作のためのAudacity入門
 author: gusni.kantu@gmail.com
 ccbysa: true
-date: 2023-12-06T07:28:00Z
+date: 2023-12-06T11:59:00Z
 iro: ce8533
 gra: c0e6fe
 math: true
@@ -78,8 +78,8 @@ Audacity を起動してから「ファイル＞開く」で音声ファイル�
 あるいは  
 エクスプローラーで音声ファイルを選択し、右クリックメニューから Audacity で開きます。
 
-例）  
-PRS Pro のセクション 23 の音声を修正したい場合は a000023.wav を開く。
+例）
+: PRS Pro のセクション 23 の音声を修正したい場合は a000023.wav を開く。
 
 ### 3.4. Audacity で音声を修正
 
@@ -95,21 +95,24 @@ PRS Pro のセクション 23 の音声を修正したい場合は a000023.wav �
 <video width="100%" height="auto" controls>
   <source src="media/a4d/noisereduction.mp4" type="video/mp4">
   <source src="media/a4d/noisereduction.ogg" type="video/ogg">
-Your browser does not support the video tag.</video>
+Your browser does not support the video tag.</video>  
+『卵の形』寺田寅彦（青空文庫; 初出「東京朝日新聞」1908（明治41）年8月26日）より
 
-成果に不満があれば、この操作を繰り返すか、元に戻して `Ctrl Z` から、ノイズ低減のパラメータを操作してやり直しても良いでしょう。音声が不自然にならない程度に気をつけてください。
+成果に不満があれば、この操作を繰り返すか、元に戻して `Ctrl Z` から、ノイズ低減のパラメータを操作してやり直しても良いでしょう。読み上げ音声が不自然にならない程度に気をつけてください。
 
 #### 口中音・クリック音などを低減する
 {:.no_toc}
 
 1. クリック音のある部分または全体を選択
 2. メニュー＞エフェクト＞ノイズ除去と修復＞クリックノイズの除去  
-   数値はいろいろ試してちょうど良い数値を見つける。
+   数値はいろいろ試してちょうど良い数値を見つけますが、読み上げ音声が不自然にならない程度に気をつけてください。
 
 <video width="100%" height="auto" controls>
   <source src="media/a4d/clickremoval.mp4" type="video/mp4">
   <source src="media/a4d/clickremoval.ogg" type="video/ogg">
-Your browser does not support the video tag.</video>
+Your browser does not support the video tag.</video>  
+『卵の形』寺田寅彦（青空文庫; 初出「東京朝日新聞」1908（明治41）年8月26日）より
+
 
 #### 音割れしない範囲で音量を上げる
 {:.no_toc}
