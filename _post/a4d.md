@@ -59,7 +59,7 @@ Audacity 作業に入る直前に、 PRS Pro で必ずビルドブック `Ctrl B
 | 2 | a000002.wav |
 | 3 | a000003.wav |
 | ... | ... |
-{: .naka}
+{: .tablewidth}
 
 Audacity での修正は、セクション単位で行います。  
 修正したいセクションの番号を PRS Pro で確認し、必要であればメモを取って、 PRS Pro を終了します。
