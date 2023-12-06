@@ -9,28 +9,73 @@
 
 <url>
   <loc>https://qfdaisy.github.io/</loc>
-  <lastmod>2023-08-06T03:09:51+00:00</lastmod>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://qfdaisy.github.io/daisy.html</loc>
-  <lastmod>2023-08-06T03:09:51+00:00</lastmod>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://qfdaisy.github.io/ocr.html</loc>
-  <lastmod>2023-08-06T03:09:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://qfdaisy.github.io/pproducer.html</loc>
-  <lastmod>2023-08-06T03:09:51+00:00</lastmod>
+  <loc>https://qfdaisy.github.io/a4d.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://qfdaisy.github.io/aitalk.html</loc>
-  <lastmod>2023-08-06T03:09:51+00:00</lastmod>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/kensaku.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/ocr.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/pproducer.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/bibliotheques.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/livres.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/copyright20220806.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/zenkoku20181111.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/chukyu2017.html</loc>
+  <lastmod>2023-12-06T13:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/media/bibliotheques/bibliotheques.pdf</loc>
+  <lastmod>2023-12-06T13:14:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qfdaisy.github.io/media/chukyu2017/endoh_articulation.pdf</loc>
+  <lastmod>2023-12-06T13:14:15+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
