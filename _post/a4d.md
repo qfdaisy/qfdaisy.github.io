@@ -103,7 +103,8 @@ Your browser does not support the video tag.</video>
 {:.no_toc}
 
 1. クリック音のある部分または全体を選択
-2. メニュー＞エフェクト＞ノイズ除去と修復＞クリックノイズの除去
+2. メニュー＞エフェクト＞ノイズ除去と修復＞クリックノイズの除去  
+   数値はいろいろ試してちょうど良い数値を見つける。
 
 <video width="100%" height="auto" controls>
   <source src="media/a4d/clickremoval.mp4" type="video/mp4">
