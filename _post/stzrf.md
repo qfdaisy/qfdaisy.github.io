@@ -3,7 +3,7 @@ layout: noindex
 category: misc
 docid: stzrf
 title: Mの弁明 Ἀπολογία
-date: 2023-12-05T00:00:00Z
+date: 2023-12-24T00:00:00Z
 iro: 327295
 gra: a3c70e
 ---
