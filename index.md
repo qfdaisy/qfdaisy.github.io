@@ -6,7 +6,7 @@ title: どうするデイジー : Que faire avec DAISY?
 author: gusni.kantu@gmail.com
 ccbysa: true
 date: 2023-04-27T22:10:00Z
-modi: 2023-12-06T07:26:27Z
+modi: 2024-01-04T03:23:00Z
 ---
 # どうするデイジー : Que faire avec DAISY?
 
@@ -14,6 +14,7 @@ modi: 2023-12-06T07:26:27Z
 
 - [DAISYとは](daisy.html)
 - [DAISY版製作のためのAudacity入門](a4d.html)
+- [PRS Pro のプロジェクトフォルダ作成場所](path.html)
 - [マルチメディアデイジー製作のための理論と実践](https://docs.google.com/presentation/d/17-BF2mJ7k7RQVpR8Y9X-wNqfBrpimvtT0cgDwRQwjZI/edit?usp=sharing)（講習用スライド）
 - [ChattyInfty3 AITalk版の操作方法](aitalk.html)
 - [音声デイジー版の自主製作に適した図書の探し方](kensaku.html)
