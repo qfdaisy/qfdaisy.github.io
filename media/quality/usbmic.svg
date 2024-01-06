@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="123.96506mm"
+   height="99.96476mm"
+   viewBox="0 0 123.96506 99.96476"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="usbmic.svg"
+   inkscape:export-filename="/home/guskant/git/qfdaisy/quality/media/quality/usbmic.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64630631"
+     inkscape:cx="340.39587"
+     inkscape:cy="170.19794"
+     inkscape:window-width="1366"
+     inkscape:window-height="688"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="50.242188"
+       y="530.08722"
+       width="58.812878"
+       height="42.781384"
+       id="rect93234" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path66526" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path66523" />
+    </marker>
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="118.82587"
+       height="67.741959"
+       id="rect38078" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="156.44188"
+       height="42.301559"
+       id="rect8588" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="117.05522"
+       height="37.925262"
+       id="rect5722" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="283.45135"
+       height="75.491158"
+       id="rect52546" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="118.82587"
+       height="67.741959"
+       id="rect67189" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="67.42897"
+       height="69.633286"
+       id="rect73623" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="171.34142"
+       height="48.04863"
+       id="rect78365" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="118.82587"
+       height="67.741959"
+       id="rect86508" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="118.82587"
+       height="67.741959"
+       id="rect177204" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="118.82587"
+       height="67.741959"
+       id="rect177210" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="156.44188"
+       height="42.301559"
+       id="rect203524" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="156.44188"
+       height="42.301559"
+       id="rect246002" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="156.44188"
+       height="42.301559"
+       id="rect246004" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="156.44188"
+       height="42.301559"
+       id="rect246290" />
+    <rect
+       x="259.71002"
+       y="377.34225"
+       width="156.44188"
+       height="42.301559"
+       id="rect262552" />
+    <rect
+       x="37.416203"
+       y="466.60803"
+       width="118.82587"
+       height="67.741959"
+       id="rect291429" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="blanc"
+     transform="translate(0.39687497,0.39687514)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect273017"
+       width="123.17131"
+       height="99.171013"
+       x="2.8124999e-08"
+       y="-1.4160157e-07"
+       inkscape:export-filename="/home/guskant/git/qfdaisy/quality/media/quality/interface.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.3875488,-66.80123)">
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:0.512122;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect291423"
+       width="6.4968452"
+       height="98.63694"
+       x="95.567825"
+       y="67.198105" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:0.512122;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect201229"
+       width="6.4968452"
+       height="98.63694"
+       x="22.542755"
+       y="67.198105" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:0.258984;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect201092"
+       width="6.0362763"
+       height="98.449234"
+       x="16.192751"
+       y="67.198105" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:0.512122;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect183618"
+       width="7.2236977"
+       height="98.467377"
+       x="8.7844238"
+       y="67.198105" />
+    <g
+       id="g1927"
+       style="stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(0,19.836752)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 12.76716,68.928508 -0.578947,22.000009 v 0"
+         id="path1724"
+         sodipodi:nodetypes="ccc" />
+      <ellipse
+         style="opacity:1;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1748"
+         cx="22.198044"
+         cy="79.928513"
+         rx="10.00974"
+         ry="9.4453096" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5720"
+       style="font-size:26.6667px;line-height:125%;font-family:'Migu 1C';-inkscape-font-specification:'Migu 1C';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect5722);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.6315789,-46.315781)"
+       id="text38076"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect38078);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291593">マイク</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 13.293245,140.25224 11.723181,0.30047"
+       id="path66521"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect67037"
+       width="46.811684"
+       height="30.614555"
+       x="84.179764"
+       y="84.457985" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,83.666403,-48.657383)"
+       id="text67187"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect67189);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291595">パソコン</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 25.545552,140.55271 103.393208,0.29888"
+       id="path73366"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.003482,23.954539)"
+       id="text73621"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect73623);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="482.36742"
+         id="tspan291597">アナ
+</tspan><tspan
+         x="37.416016"
+         y="502.36742"
+         id="tspan291599">ログ
+</tspan><tspan
+         x="37.416016"
+         y="522.36742"
+         id="tspan291601">信号</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,46.818743,24.003928)"
+       id="text78363"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect78365);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291603">デジタル情報</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.66008788,2.3157979)"
+       id="text86506"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect86508);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291605">1</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text93232"
+       style="font-size:26.6667px;line-height:125%;font-family:'Migu 1C';-inkscape-font-specification:'Migu 1C';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect93234);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.5392545,2.3157979)"
+       id="text177202"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect177204);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291607">2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,13.889257,2.3157979)"
+       id="text177208"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect177210);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291609">3</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.367922,-4.6221397)"
+       id="text245996"
+       style="font-size:26.6667px;line-height:125%;font-family:'Migu 1C';-inkscape-font-specification:'Migu 1C';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect246002);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="259.71094"
+         y="403.6085"
+         id="tspan291613"><tspan
+           style="font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M'"
+           id="tspan291611">IN</tspan></tspan></text>
+    <g
+       id="g262271"
+       transform="translate(-39.687519,0.17460155)">
+      <rect
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect246185"
+         width="25.204065"
+         height="17.225863"
+         x="142.30263"
+         y="90.97773" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,80.809628,-4.6221397)"
+         id="text246288"
+         style="font-size:26.6667px;line-height:125%;font-family:'Migu 1C';-inkscape-font-specification:'Migu 1C';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect246290);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+           x="259.71094"
+           y="403.6085"
+           id="tspan291617"><tspan
+             style="font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M'"
+             id="tspan291615">HDD</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.420111,99.692061 52.169972,0.146407"
+       id="path262273"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.554664,0.46499672)"
+       id="text262550"
+       style="font-size:26.6667px;line-height:125%;font-family:'Migu 1C';-inkscape-font-specification:'Migu 1C';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect262552);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="259.71094"
+         y="403.6085"
+         id="tspan291621"><tspan
+           style="font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M'"
+           id="tspan291619">USB</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,87.44347,2.3157979)"
+       id="text291427"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect291429);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="37.416016"
+         y="492.87412"
+         id="tspan291623">3</tspan></text>
+  </g>
+</svg>
