@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="dr1.svg"
-   inkscape:export-filename="/home/guskant/git/qfdaisy/quality/media/quality/dr1.png"
+   inkscape:export-filename="/home/guskant/git/qfdaisy/qfdaisy.github.io/media/quality/dr1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64630631"
-     inkscape:cx="324.92333"
-     inkscape:cy="168.65068"
+     inkscape:zoom="0.91401515"
+     inkscape:cx="250.54289"
+     inkscape:cy="44.857025"
      inkscape:window-width="1366"
      inkscape:window-height="688"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -193,7 +193,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.949258,99.692061 35.765685,0.146407"
+       d="m 32.420091,99.692061 36.294852,0.146407"
        id="path1962"
        sodipodi:nodetypes="cc" />
     <rect
@@ -215,9 +215,9 @@
        style="font-size:26.6667px;line-height:125%;font-family:'Migu 1C';-inkscape-font-specification:'Migu 1C';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect8588);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="259.71094"
          y="403.6085"
-         id="tspan273955"><tspan
+         id="tspan1130"><tspan
            style="font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M'"
-           id="tspan273953">IN</tspan></tspan></text>
+           id="tspan1128">IN</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,4.6315789,-46.315781)"
@@ -225,7 +225,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect38078);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273957">マイク</tspan></text>
+         id="tspan1132">マイク</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,110.9942,-56.369954)"
@@ -233,7 +233,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect52546);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273959">DR-1</tspan></text>
+         id="tspan1134">DR-1</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 13.293245,140.25224 77.339848,0.82964"
@@ -256,7 +256,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect67189);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
            x="37.416016"
            y="492.87412"
-           id="tspan273961">CFカード</tspan></text>
+           id="tspan1136">CFカード</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
@@ -270,7 +270,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect73623);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273963">アナログ信号</tspan></text>
+         id="tspan1138">アナログ信号</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,101.32298,24.003928)"
@@ -278,7 +278,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect78365);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273965">デジタル情報</tspan></text>
+         id="tspan1140">デジタル情報</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0.66008788,2.3157979)"
@@ -286,7 +286,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect86508);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273967">1</tspan></text>
+         id="tspan1142">1</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -299,7 +299,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect177204);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273969">2</tspan></text>
+         id="tspan1144">2</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,78.976798,2.3157979)"
@@ -307,6 +307,6 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:'Migu 1M';-inkscape-font-specification:'Migu 1M, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect177210);fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
          x="37.416016"
          y="492.87412"
-         id="tspan273971">3</tspan></text>
+         id="tspan1146">3</tspan></text>
   </g>
 </svg>
