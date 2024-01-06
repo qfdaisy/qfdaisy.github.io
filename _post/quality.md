@@ -143,7 +143,7 @@ Sound Quality (SQ) is the perceptual reaction to the sound of a product that ref
 
 ### 4.2. 録音に使う機器の仕様
 
-音訳で実際に使われている機械の仕様を比較してみる。
+DAISY製作で実際に使われている機械の仕様を比較してみる。
 
 #### 4.2.1. マイクの仕様
 
@@ -252,31 +252,31 @@ DAISY図書で要求される仕様のサンプリング周波数は 22050 Hz �
 コンデンサマイク Blue Yeti を使ってサンプリング周波数 48000 Hz で録音した話し声の音声ファイルと、それを変換してサンプリング周波数を落とした音声ファイルを作成した。以下で聴き比べることができる。（ブラウザで正常に再生できない場合はダウンロードして別のプレイヤーで再生してください。）
 
 <div class="naka">
-  48000 Hz (<a href="media/quality/condensor48000.flac">ダウンロード</a>)</br >
+  48000 Hz (<a href="media/quality/condensor48000.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor48000.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  44100 Hz (<a href="media/quality/condensor44100.flac">ダウンロード</a>)</br >
+  44100 Hz (<a href="media/quality/condensor44100.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor44100.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  22050 Hz (<a href="media/quality/condensor22050.flac">ダウンロード</a>)</br >
+  22050 Hz (<a href="media/quality/condensor22050.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor22050.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  11025 Hz (<a href="media/quality/condensor11025.flac">ダウンロード</a>)</br >
+  11025 Hz (<a href="media/quality/condensor11025.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor11025.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  8000 Hz (<a href="media/quality/condensor8000.flac">ダウンロード</a>)</br >
+  8000 Hz (<a href="media/quality/condensor8000.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor8000.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
@@ -323,25 +323,25 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 話し声を 16 bit 22050 Hz で保存したPCMデータと、それをMP3方式のいくつかの可変ビットレートで圧縮した音声ファイルを作成した。以下で聴き比べることができる。（ブラウザで正常に再生できない場合はダウンロードして別のプレイヤーで再生してください。）
 
 <div class="naka">
-  16 bit, 22050 Hz (<a href="media/quality/condensor22050.flac">ダウンロード</a>)</br >
+  16 bit, 22050 Hz (<a href="media/quality/condensor22050.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor22050.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  MP3圧縮 220-260 kbps (<a href="media/quality/220-260kbps.mp3">ダウンロード</a>)</br >
+  MP3圧縮 220-260 kbps (<a href="media/quality/220-260kbps.mp3">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/220-260kbps.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  MP3圧縮 110-150 kbps (<a href="media/quality/110-150kbps.mp3">ダウンロード</a>)</br >
+  MP3圧縮 110-150 kbps (<a href="media/quality/110-150kbps.mp3">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/110-150kbps.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  MP3圧縮 45-85 kbps (<a href="media/quality/45-85kbps.mp3">ダウンロード</a>)</br >
+  MP3圧縮 45-85 kbps (<a href="media/quality/45-85kbps.mp3">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/45-85kbps.mp3" type="audio/mpeg">
   お使いのブラウザでは表示できません。</audio></div>
@@ -403,13 +403,13 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 実際に2種類のマイクで同時に同じ発話を録音してみた。ただし、ダイナミックマイクの方は、USB接続ではない機種を使ったので、DAISY録音でよく使われるアンバランス方式の配線では電気的ノイズが入り過ぎてマイク自体の比較ができないため、バランス方式の配線に変更した。（ブラウザで正常に再生できない場合はダウンロードして別のプレイヤーで再生してください。）
 
 <div class="naka">
-  USBコンデンサマイク Blue Yeti, 16 bit 48000 Hz (<a href="media/quality/condensor48000.flac">ダウンロード</a>)</br >
+  USBコンデンサマイク Blue Yeti, 16 bit 48000 Hz (<a href="media/quality/condensor48000.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor48000.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Focusrite Scarlett 4i4 Third generation, XLRケーブルで接続, 16 bit 48000 Hz (<a href="media/quality/dynamic48000.flac">ダウンロード</a>)</br >
+  ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Focusrite Scarlett 4i4 Third generation, XLRケーブルで接続, 16 bit 48000 Hz (<a href="media/quality/dynamic48000.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/dynamic48000.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
@@ -421,13 +421,13 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 上記の録音データからサンプリング周波数を 22050 Hz に下げたデータも作成してみた。（ブラウザで正常に再生できない場合はダウンロードして別のプレイヤーで再生してください。）
 
 <div class="naka">
-  USBコンデンサマイク Blue Yeti, 16 bit 22050 Hz (<a href="media/quality/condensor22050.flac">ダウンロード</a>)</br >
+  USBコンデンサマイク Blue Yeti, 16 bit 22050 Hz (<a href="media/quality/condensor22050.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/condensor22050.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Focusrite Scarlett 4i4 Third generation, XLRケーブルで接続, 16 bit 22050 Hz (<a href="media/quality/dynamic22050.flac">ダウンロード</a>)</br >
+  ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Focusrite Scarlett 4i4 Third generation, XLRケーブルで接続, 16 bit 22050 Hz (<a href="media/quality/dynamic22050.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/dynamic22050.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
@@ -444,13 +444,13 @@ MP3方式では、人間の聴覚では再生音の劣化を感じにくいよ�
 実際に配線方式を変え、それ以外は同じ条件にして2種類の録音をしてみた。（ブラウザで正常に再生できない場合はダウンロードして別のプレイヤーで再生してください。）
 
 <div class="naka">
-  アンバランス方式： ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Roland UA-11-MK2 (<a href="media/quality/dynamic22050_nonxlr.flac">ダウンロード</a>)</br >
+  アンバランス方式： ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Roland UA-11-MK2 (<a href="media/quality/dynamic22050_nonxlr.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/dynamic22050_nonxlr.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
 
 <div class="naka">
-  バランス方式： ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Focusrite Scarlett 4i4 Third generation, XLRケーブルで接続 (<a href="media/quality/dynamic22050_xlr.flac">ダウンロード</a>)</br >
+  バランス方式： ダイナミックマイク Sony F-V620, オーディオ・インターフェイス Focusrite Scarlett 4i4 Third generation, XLRケーブルで接続 (<a href="media/quality/dynamic22050_xlr.flac">ダウンロード</a>)<br />
   <audio id="wplayer" controls>
   <source src="media/quality/dynamic22050_xlr.flac" type="audio/flac">
   お使いのブラウザでは表示できません。</audio></div>
