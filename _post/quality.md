@@ -155,7 +155,7 @@ DAISY製作で実際に使われている機械の仕様を比較してみる。
 感度 (Sensitivity)
 : マイクの振動板に特定の音圧を与えたときに出力される信号の振幅。 dBV という単位で表示する場合は負の数で表され、0に近いほど感度が高い。
 
-##### 音訳で使われているマイクの仕様の例
+##### DAISY製作で使われているマイクの仕様の例
 
 型名 | [SHURE SM58](https://www.shure.com/en-US/products/microphones/sm58) | [Blue Yeti](https://gaming.logicool.co.jp/ja-jp/products/streaming-gear/yeti-premium-usb-microphone.988-000237.html)
 構造 | ダイナミックマイク | コンデンサマイク
@@ -191,9 +191,9 @@ DR-1 や オーディオ・インターフェイスの入力インピーダン�
 入力感度
 : 受け取ることができる入力信号レベルの範囲。 マイクの感度より高い仕様（よりゼロに近い値）であれば、マイクからの信号を漏らさずに受け取ることができる。
 
-##### 音訳で使われている機器の組み合わせの例
+##### DAISY製作で使われている機器の組み合わせの例
 
-音訳で使われている DR-1 とマイク SHURE SM58 の組み合わせと、オーディオ・インターフェイス Roland UA-11-MK2 とマイク SHURE SM58 の組み合わせについて、わかる範囲で仕様を比較すると以下のようになる。
+DAISY製作で使われている DR-1 とマイク SHURE SM58 の組み合わせと、オーディオ・インターフェイス Roland UA-11-MK2 とマイク SHURE SM58 の組み合わせについて、わかる範囲で仕様を比較すると以下のようになる。
 
 組み合わせ | [DR-1](http://www.plextalk.com/jp/support/dr1/specifications/) + SHURE SM58 | [UA-11-MK2](https://www.roland.com/jp/products/duo-capture_mk2/specifications/) + SHURE SM58
 マイクの出力インピーダンス (O) | 300 Ω | 300 Ω
@@ -296,9 +296,9 @@ DAISY図書で要求される仕様のサンプリング周波数は 22050 Hz �
 音楽データを制作する際には、元のデータにいろいろな細工を重ねるので、誤差の蓄積を防ぐために、ビット深度の大きいデータを編集する。 しかし、一般的なDAISY製作では、音声の順番の入れ替えをすることはあるが、エフェクトをかけるなどの細工をすることはほとんど無い。 そのため、録音時のビット深度を 16 bit より大きくしておく意味がない。
 
 
-##### 音訳で使われている機器のデジタル化の仕様の例
+##### DAISY製作で使われている機器のデジタル化の仕様の例
 
-音訳で使われている DR-1、オーディオ・インターフェイス Roland UA-11-MK2、USBマイク Blue Yeti のデジタル化の仕様は、それぞれ以下のようになっている。
+DAISY製作で使われている DR-1、オーディオ・インターフェイス Roland UA-11-MK2、USBマイク Blue Yeti のデジタル化の仕様は、それぞれ以下のようになっている。
 
 機器 | [DR-1](http://www.plextalk.com/jp/support/dr1/specifications/) | [UA-11-MK2](https://www.roland.com/jp/products/duo-capture_mk2/specifications/) | [Blue Yeti](https://gaming.logicool.co.jp/ja-jp/products/streaming-gear/yeti-premium-usb-microphone.988-000237.html)
 サンプリング周波数 | 22050 Hz | 44100 Hz, 48000 Hz | 48000 Hz
