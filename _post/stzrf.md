@@ -2,16 +2,16 @@
 layout: noindex
 category: misc
 docid: stzrf
-title: Mの弁明 Ἀπολογία
+title: 謝罪 Ἀπολογία
 date: 2023-12-25T00:00:00Z
 iro: 327295
 gra: a3c70e
 ---
 
-# Mの弁明: Ἀπολογία
+# 謝罪: Ἀπολογία
 {:.no_toc}
 
- <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">Mの弁明: Ἀπολογία</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
+ <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://qfdaisy.github.io/stzrf.html">謝罪: Ἀπολογία</a> by <span property="cc:attributionName">M</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></span> 
 {: .note}
 
 ## 目次
@@ -20,7 +20,7 @@ gra: a3c70e
 * TOC
 {:toc}
 
-## 0. 弁明を残す動機
+## 0. 謝罪を残す動機
 
 Mは2016年の秋からグループQの末席を汚しておりました。その中で多くの新鮮な体験をし、社会勉強になりました。
 Mの愚かな言動は、今後グループQや類似の集団で活動する人々にとっても振る舞い方の反面教師となるはずですので、ここに記録しておくことにしました。
