@@ -26,7 +26,7 @@ gra: a3c70e
 全国基準には、点字図書館やライトハウスなどの伝統的な録音図書制作機関による規定と相容れない部分がある。しかし、比較的歴史の浅い音訳グループが、日本語の音声デイジー図書制作のために自分たちの規定を創設したり再考したりする際には、全国基準に従うことも選択肢の一つとなるだろう。
 
 ただ全国基準の記述形式は一般的な工業規格の体裁を持たないので、技術文書としては冗長だったり曖昧だったりする部分が多い。
-本稿では、定義 (lexicon, definition) 、必須 (MUST, REQUIRED, SHALL)、推奨 (SHOULD, RECOMMENDED)、 正当な理由がない限り不可 (SHOULD NOT, NOT RECOMMENDED)、不可 (MUST NOT, SHALL NOT)、任意 (MAY, OPTIONAL) といった事項が全国基準に書かれているものとみなして、読解する努力をしてみる[^bcp14rfc2119]。
+本稿では、定義 (lexicon, definition) 、必須 (MUST, REQUIRED, SHALL)、推奨 (SHOULD, RECOMMENDED)、 正当な理由がない限り不可 (SHOULD NOT, NOT RECOMMENDED)、不可 (MUST NOT, SHALL NOT)、任意 (MAY, OPTIONAL) といった事項が全国基準に書かれていると期待して、読解する努力をしてみる[^bcp14rfc2119]。
 
 [^bcp14rfc2119]: [BCP 14 RFC 2119: Key words for use in RFCs to Indicate Requirement Levels, March 1997](https://www.rfc-editor.org/info/rfc2119)
 
@@ -66,9 +66,9 @@ gra: a3c70e
 
 [^onyakut]:
 
-[^kitagawa2012]: 
+[^kitagawa2012]: 『音訳・点訳のための読み調査ガイド: 視覚障害者サービスの向上にむけて』北川和彦, 2012, 日外アソシエーツ.
 
-[^rokuont]: [ろくおん通信（社会福祉法人 日本ライトハウス情報文化センター）](https://www.lighthouse.or.jp/iccb/publications/index_publications/index_rokuon/)
+[^rokuont]: [『ろくおん通信」社会福祉法人 日本ライトハウス情報文化センター](https://www.lighthouse.or.jp/iccb/publications/index_publications/index_rokuon/)
 
 伝統的な録音図書制作機関は表紙の録音をしない。また、奥付内容を独自の規定通りに並べ替えたり、表紙にある定価を奥付内に挿入するという改変を行っている。
 表紙や奥付を「原本」としてではなく「原本についての情報源」として扱っていると考えれば、そのような形式で制作されていることも当然だろう。
