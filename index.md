@@ -6,13 +6,14 @@ title: どうするデイジー : Que faire avec DAISY?
 author: gusni.kantu@gmail.com
 ccbysa: true
 date: 2023-04-27T22:10:00Z
-modi: 2024-01-06T08:08:00Z
+modi: 2024-03-26T14:14:00Z
 ---
 # どうするデイジー : Que faire avec DAISY?
 
 ## 解説
 
 - [DAISYとは](daisy.html)
+- [全国基準の読み方](standard.html)
 - [DAISY版製作のためのAudacity入門](a4d.html)
 - [音質を考慮したDAISY製作](quality.html)
 - [PRS Pro のプロジェクトフォルダ作成場所](path.html)
