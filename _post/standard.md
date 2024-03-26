@@ -199,7 +199,7 @@ PRS Pro などで編集する場合は書誌情報の入力フォームが用意
 この解釈を反映させるなら、上記必須事項の1を以下のように言い換えられる。
 1. 著者名・音訳者名・校正者名・DAISY編集校正者名が複数ある場合は、全角スペースで区切る。
 
-実は、このように複数の人名を一つの欄に入れることは DAISY2.02 規格に反する[^daisy202]。 DAISY2.02 規格では、複数の人名を記入する必要があれば、欄を人数分増やすことが推奨事項である。この点で、 DAISY 2.02 規格と全国基準は相容れない。
+じつは、このように複数の人名を一つの欄に入れることは DAISY2.02 規格に反する[^daisy202]。 DAISY2.02 規格では、複数の人名を記入する必要があれば、欄を人数分増やすことが推奨事項である。この点で、 DAISY 2.02 規格と全国基準は相容れない。
 
 [^daisy202]: [DAISY 2.02 Specification](https://daisy.org/activities/standards/daisy/daisy-2/daisy-format-2-02-specification/). `Note – When content data for <meta> elements has multiple entries (for example dc:creator in a book with several authors), the element should occur multiple times within the DTB <meta> element set. See Appendix A1.2.`
 
