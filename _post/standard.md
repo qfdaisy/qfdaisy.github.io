@@ -1,5 +1,5 @@
 ---
-layout: noindex
+layout: default
 category: daisy
 docid: standard
 title: 全国基準の読み方
