@@ -1,7 +1,6 @@
 ---
 layout: default
 category: misc
-docid: index
 title: どうするデイジー : Que faire avec DAISY?
 author: gusni.kantu@gmail.com
 ccbysa: true
