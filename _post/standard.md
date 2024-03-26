@@ -3,7 +3,7 @@ layout: default
 category: daisy
 docid: standard
 title: 全国基準の読み方
-date: 2024-02-19T00:00:00Z
+date: 2024-03-26T00:00:00Z
 iro: 327295
 gra: a3c70e
 ---
