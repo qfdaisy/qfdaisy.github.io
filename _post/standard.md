@@ -3,9 +3,12 @@ layout: default
 category: daisy
 docid: standard
 title: 全国基準の読み方
+author: gusni.kantu@gmail.com
+ccbysa: true
 date: 2024-03-26T00:00:00Z
 iro: 327295
 gra: a3c70e
+math: true
 ---
 
 # 全国基準の読み方
